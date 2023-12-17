@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // codSoft: JAVA DEVELOPMENT by Kevin Bou Merheb
-// TASK 4: STUDENT COURSE REGISTRATION SYSTEM
+// TASK 5: STUDENT COURSE REGISTRATION SYSTEM
 
 class Course {
     private String courseCode;
